@@ -26,7 +26,7 @@ nav:
     - Automate instant payment verifications: real-time-analytics/payment-status-check/index.md
     - Enrich orders with change data capture (CDC): real-time-analytics/denormalization/index.md
     - Build a dynamic pricing strategy: real-time-analytics/dynamic_pricing/index.md
-
+    - Real-time alerting using geolocation: real-time-analytics/location-based-alerting/index.md
 markdown_extensions:
   - pymdownx.highlight:
       linenums: true
